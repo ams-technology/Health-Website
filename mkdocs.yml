@@ -1,0 +1,35 @@
+# Project Information
+site_name: Health
+site_description:
+site_author: Seventh Grade Technology Majors
+site_url:
+site_dir: /var/www/html
+
+# Repository
+repo_name:
+repo_url:
+
+# Copyright
+copyright: 'Copyright &copy; 2019 7th Grade Technology Majors'
+
+# Page tree
+nav:
+  - Home: 'index.md'
+  - Donate Blood: 'donateBlood.md'
+  - Find a Blood Drive: 'locator.md'
+  - About Us: 'aboutUs.md'
+
+# Configuration
+theme:
+  name: material
+  language: en
+  feature:
+    tabs: true
+  pallette:
+    primary: green
+    secondary:
+  font:
+    text:
+    code:
+  favicon: assets/images/logo.png
+  logo: 'assets/images/logo.png'
